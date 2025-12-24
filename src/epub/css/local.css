@@ -20,3 +20,15 @@ table th{
 	padding: 0;
 	vertical-align: top;
 }
+
+figure{
+	break-inside: avoid;
+	margin: 1em 2.5em;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-height: 100vh;
+	max-width: 100%;
+}
