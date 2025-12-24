@@ -4,3 +4,19 @@
 #chapter-15 blockquote{
 	text-align: center;
 }
+
+table{
+	border-spacing: 1em;
+	margin: 1em auto;
+}
+
+table th{
+	font-style: italic;
+	font-weight: normal;
+}
+
+table td,
+table th{
+	padding: 0;
+	vertical-align: top;
+}
