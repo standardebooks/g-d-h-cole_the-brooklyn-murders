@@ -54,7 +54,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73716</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Brooklyn_Murders/0xxPAQAAMAAJ</dc:source>
-		<meta property="se:word-count">103002</meta>
+		<meta property="se:word-count">101212</meta>
 		<meta property="se:reading-ease.flesch">72.87</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/g-d-h-cole_the-brooklyn-murders</meta>
 		<dc:creator id="author">G. D. H. Cole</dc:creator>
