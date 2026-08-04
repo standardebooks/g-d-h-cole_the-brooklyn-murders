@@ -47,7 +47,7 @@
 		<meta id="collection-2" property="belongs-to-collection">Superintendent Wilson</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
 		<meta property="group-position" refines="#collection-2">1</meta>
-		<dc:abstract>Scotland Yard and a pair of amateur sleuths investigate the case of two heirs to a fortune who apparently murdered each other.</dc:abstract>
+		<meta property="schema:abstract">Scotland Yard and a pair of amateur sleuths investigate the case of two heirs to a fortune who apparently murdered each other.</meta>
 		<dc:description>
 			&lt;p&gt;Sir Vernon Brooklyn is a successful theater impresario who, in his old age, has put together a will dividing his considerable fortune among his many descendants. But just as soon as he announces the beneficiaries, two of the men who stand to inherit the most are found murdered in separate locations—and all the clues suggest that the two &lt;em&gt;murdered each other&lt;/em&gt;.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/superintendent-wilson"&gt;Superintendent Wilson&lt;/a&gt; of Scotland Yard takes up the bizarre case, while at the same time Brooklyn’s niece Joan Cowper and her lover Robert Ellery investigate as amateurs. The two parties soon converge on a possible suspect—but can they find the killer before Brooklyn’s frail health fails?&lt;/p&gt;
